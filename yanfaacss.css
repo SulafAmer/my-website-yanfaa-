@@ -515,7 +515,12 @@ footer{
 #jjj{
     color: aliceblue;
 }
-
+@media screen and (max-width:3660.95){
+#imgone{
+    width:700px;
+}
+    
+}
 
  
 
